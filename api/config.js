@@ -1,8 +1,8 @@
 //
 // //
 // // // SET ME FROM THE CLIENT PACK
-const CLIENT_ID = '';
-const SIGNING_KEY_ID = '';
+const CLIENT_ID = 'https://rp.sandbox.directory.openfinance.ae/openid_relying_party/a748a3c3-6f4c-4d59-abbf-8b1b54b21fb2';
+const SIGNING_KEY_ID = 'zMjlArPSjVYUKcHGCJDcvAuvxKiv7GE-ex_LpewQopw';
 // // //
 // //
 //
